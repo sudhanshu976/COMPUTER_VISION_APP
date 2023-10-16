@@ -10,7 +10,7 @@ st.set_page_config(
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
-resume_file = current_dir / "assets" / "my_resume.pdf"
+resume_file = current_dir / "assets" / "my_resume97.pdf"
 profile_pic = current_dir / "assets" / "profile-pic.png"
 
 
@@ -112,9 +112,9 @@ st.write(
 """
 )
 
-# --- Projects & Accomplishments ---
-st.write('\n')
-st.subheader("Projects & Accomplishments")
-st.write("---")
-for project, link in PROJECTS.items():
-    st.write(f"[{project}]({link})")
+# # --- Projects & Accomplishments ---
+# st.write('\n')
+# st.subheader("Projects & Accomplishments")
+# st.write("---")
+# for project, link in PROJECTS.items():
+#     st.write(f"[{project}]({link})")
