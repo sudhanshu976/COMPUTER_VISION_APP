@@ -57,7 +57,7 @@ with st.container():
             st.write("##")
             st.write("""
                     ##### 1. MALARIA-DIAGONSIS
-                    ##### 2. 
+                    ##### 2. Potato Disease Clasiifier
                     ##### 3.  
                     ##### 4. """)
 

@@ -30,7 +30,7 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
     "🏆 MALARIA DIAGNOSIS MODEL",
-    "🏆 ",
+    "🏆 Potato Disease Clasiifier",
     "🏆 ",
 }
 
