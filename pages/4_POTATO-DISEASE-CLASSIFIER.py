@@ -3,7 +3,7 @@ import tensorflow as tf
 from PIL import Image
 import numpy as np
 st.set_page_config(
-    page_title="Malaria Detection Web App"
+    page_title="Potato Disease Web App"
 )
 
 st.title("POTATO DISEASE CLASSIFIER")
