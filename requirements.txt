@@ -4,3 +4,5 @@ streamlit-lottie
 numpy
 tensorflow
 Pillow
+opencv-python
+transformers
