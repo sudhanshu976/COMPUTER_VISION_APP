@@ -58,7 +58,7 @@ with st.container():
             st.write("""
                     ##### 1. MALARIA-DIAGONSIS
                     ##### 2. POTATO-DISEASE CLASSIFIER
-                    ##### 3.  
+                    ##### 3. HUMAN EMOTIONS DETECTOR
                     ##### 4. """)
 
 with st.container():
